@@ -1,0 +1,38 @@
+[
+  {
+    "Name": "Mandeep Kaur",
+    "Enrollment_Number": "11413203114",
+    "course": "Information Technology",
+    "password": "mandy"
+  },
+  {
+    "Name": "Manisha panchal",
+    "Enrollment_Number": "00713207715",
+    "course": "Information Technology",
+    "password": 12345678
+  },
+  {
+    "Name": "Parwinder Singh",
+    "Enrollment_Number": "11513203114",
+    "course": "Information Technology",
+    "password": 12345678
+  },
+  {
+    "Name": "Surinder Kaur",
+    "Enrollment_Number": "22213203114",
+    "course": "Information Technology",
+    "password": "suri"
+  },
+  {
+    "Name": "dilpreet Singh",
+    "Enrollment_Number": "22213203114",
+    "course": "Information Technology",
+    "password": "suri"
+  },
+  {
+    "Name": "pppp Singh",
+    "Enrollment_Number": "22213203114",
+    "course": "Information Technology",
+    "password": "suri"
+  }
+]
